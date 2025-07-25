@@ -1,0 +1,58 @@
+{
+  "angry": [
+    "spiteful",
+    "vengeful"
+  ],
+  "bored": [
+    "detached",
+    "unbothered"
+  ],
+  "conflicted": [
+    "doubtful",
+    "guessing"
+  ],
+  "depressed": [
+    "low",
+    "drained"
+  ],
+  "energetic": [
+    "upbeat",
+    "chaotic"
+  ],
+  "happy": [
+    "bubbly",
+    "joyful"
+  ],
+  "hurt": [
+    "unstable",
+    "on edge"
+  ],
+  "lonely": [
+    "isolated",
+    "rejected"
+  ],
+  "lost": [
+    "confused",
+    "wandering"
+  ],
+  "mischievous": [
+    "sneaky",
+    "snarky"
+  ],
+  "mysterious": [
+    "inquisitive",
+    "thinking"
+  ],
+  "romantic": [
+    "dreamy",
+    "loving"
+  ],
+  "sad": [
+    "melancholic",
+    "drifting"
+  ],
+  "tired": [
+    "fatigued",
+    "heavy"
+  ]
+}
