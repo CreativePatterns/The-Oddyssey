@@ -16,7 +16,7 @@
     "drained"
   ],
   "energetic": [
-    "upbeat",
+    "XD",
     "chaotic"
   ],
   "happy": [
@@ -36,7 +36,7 @@
     "wandering"
   ],
   "mischievous": [
-    "sneaky",
+    ">:3",
     "snarky"
   ],
   "mysterious": [
@@ -49,10 +49,26 @@
   ],
   "sad": [
     "melancholic",
-    "drifting"
+    ":("
   ],
   "tired": [
     "fatigued",
     "heavy"
+  ],
+  "scared": [
+    "mortified",
+    "concerned"
+  ],
+  "disgusted": [
+    "revolted",
+    "sick"
+  ],
+  "stressed": [
+    "nervous",
+    "annoyed"
+  ],
+  "drained": [
+    "dead",
+    ":D"
   ]
 }

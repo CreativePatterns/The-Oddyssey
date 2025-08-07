@@ -1,0 +1,128 @@
+{
+  "angry": [
+    "After {event}, {name1} and {name2} both stormed into {realm} to {action} like it was a joint revenge pact.",
+    "The second {event} was mentioned, {name1} and {name2} exchanged a glance, then marched to {realm} to {action}.",
+    "There was so much passive-aggressive tension after {event}, {name1} and {name2} just started {action} in {realm} like it was therapy.",
+    "{name1} and {name2} decided that if {event} was going to ruin their day, they'd ruin {realm} back by {action}.",
+    "Everyone in {realm} cleared out when {name1} and {name2} entered post-{event}, already mid-{action} and not taking questions."
+  ],
+  "bored": [
+    "Nothing good ever happens when {name1} and {name2} get bored in {realm}. Last time, it ended with {event} and an attempt to {action}.",
+    "Out of boredom, {name1} and {name2} went to {realm} and accidentally caused {event} while trying to {action}.",
+    "{event} was supposed to be fun, but instead {name1} and {name2} wandered off to {realm} to {action} and meme about it.",
+    "You can always tell when {name1} and {name2} are bored—they disappear into {realm} and come back with {event} and weird {action} stories.",
+    "Everyone was minding their business until {name1} and {name2} started {action} in {realm}. Turns out, they were just bored. Again."
+  ],
+  "conflicted": [
+    "To avoid confronting {event}, {name1} dragged {name2} to {realm} under the pretense of wanting to {action}.",
+    "{name1} said they wanted clarity after {event}, but somehow ended up {action} with {name2} in {realm} instead.",
+    "{event} left both {name1} and {name2} confused—so naturally, they went to {realm} to {action} and say nothing.",
+    "{name2} thought they were going to help {name1} with {event}, but got roped into {action} at {realm} while no one made any decisions.",
+    "The debate over {event} got too intense, so {name1} and {name2} escaped to {realm} for some emotionally-charged {action}."
+  ],
+  "depressed": [
+    "{name1} and {name2} found themselves at {realm} during {event}, both too emotionally drained to do anything but {action}.",
+    "{event} hit them both hard, so {name1} and {name2} ended up in {realm} just quietly {action} with zero plans.",
+    "{name1} texted {name2} ‘you up?’ and they both went to {realm} to {action} after {event} broke them emotionally.",
+    "Nothing was said. After {event}, {name1} and {name2} just met in {realm} and started {action} like it was their last option.",
+    "{name2} didn’t even ask questions—just met {name1} at {realm} and joined in {action} while the weight of {event} sat between them."
+  ],
+  "energetic": [
+    "After a suspicious amount of sugar, {name1} and {name2} began {action} through {realm}, completely ignoring the fact that {event} was happening.",
+    "{name1} dared {name2} to match their energy post-{event}, and now they’re {action} around {realm} like caffeinated gremlins.",
+    "{event} ended, and instead of chilling, {name1} and {name2} decided to {action} in {realm} like the laws of physics don’t apply.",
+    "You’d think {event} tired them out, but no—{name1} and {name2} are still out here {action} through {realm} like it’s a sport.",
+    "Witnesses last saw {name1} and {name2} doing backflips and {action} in {realm} hours after {event} ended. We’re concerned."
+  ],
+  "happy": [
+    "{name1} and {name2} were so caught up {action} during {event} that the whole of {realm} just let them vibe.",
+    "Nothing could ruin {event} for {name1} and {name2}—they were too busy {action} around {realm} like joyful chaos goblins.",
+    "{name2} had a rough week, but {name1} pulled them to {realm} to {action} and laugh until {event} felt like a distant memory.",
+    "During {event}, {name1} and {name2} turned {realm} into their personal party spot by just existing and {action}.",
+    "The only thing louder than the music at {event} was {name1} and {name2}’s laughter echoing through {realm} while {action}."
+  ],
+  "hurt": [
+    "After the fallout from {event}, {name1} ran to {realm} to {action}, and {name2} followed without saying a word.",
+    "Neither of them said it, but {event} left marks. Now, {name1} and {name2} just quietly {action} at {realm} together.",
+    "{name2} didn’t know what to say about {event}, so they joined {name1} in {realm} to {action} and sit in silence.",
+    "They didn’t cry after {event}, but {name1} and {name2} showing up to {realm} and {action}? That says everything.",
+    "{name1} thought they were over it, but when {name2} started {action} at {realm}, they followed. {event} still hurts."
+  ],
+  "lonely": [
+    "Despite being together in {realm}, {name1} and {name2} still felt distant after {event}, and ended up {action} in silence.",
+    "After {event}, {name1} invited {name2} to {realm}, hoping company would help. They both ended up {action} anyway.",
+    "They sat together at {realm} like strangers, both {action} quietly as if {event} had swallowed their bond.",
+    "{name1} didn’t want to be alone after {event}, and neither did {name2}. But even in {realm}, the loneliness lingered.",
+    "{name2} cracked a joke while {action} at {realm}, but after {event}, even laughter felt hollow between them."
+  ],
+  "lost": [
+    "Trying to find the way to {event}, {name1} and {name2} ended up in {realm} and decided to just {action} and pretend it was planned.",
+    "{name1} swore they had a map. Now they’re both {action} in {realm}, clearly not headed toward {event}.",
+    "They missed a turn, a sign, and common sense—so now {name1} and {name2} are {action} through {realm} while {event} happens elsewhere.",
+    "One of them said ‘trust me,’ and now they’re both lost in {realm} post-{event}, nervously {action} with zero signal.",
+    "{name2} was about to ask for directions after {event}, but {name1} insisted they {action} instead. In {realm}. Where no one lives."
+  ],
+  "mischievous": [
+    "{name1} dared {name2} to {action} during {event}—now the entire {realm} is under investigation.",
+    "{event} was already chaotic, but once {name1} and {name2} entered {realm}, {action} began and logic left the chat.",
+    "No one should’ve given {name1} and {name2} access to {realm} during {event}. They’ve been {action} ever since.",
+    "{name2} said ‘what if we just...’ and {name1} didn’t even hesitate. {action} in {realm} commenced immediately post-{event}.",
+    "You can always tell when {name1} and {name2} are plotting. Step one: wait for {event}. Step two: {action} at {realm}."
+  ],
+  "mysterious": [
+    "When {name1} started {action} in {realm}, {name2} immediately suspected it had something to do with {event}.",
+    "No one knew where {name1} and {name2} disappeared after {event}—until they were spotted {action} in {realm} like cryptids.",
+    "{event} triggered something weird. Now {name1} and {name2} keep showing up at {realm} to {action} with no explanation.",
+    "They speak in riddles, vanish after {event}, and reappear in {realm} mid-{action}. No one knows what they’re planning.",
+    "{name2} caught {name1} {action} in {realm} under a full moon after {event}. They didn’t talk about it."
+  ],
+  "romantic": [
+    "{name1} took {name2} to {realm} to {action}, trying to ease the tension after the awkwardness of {event}.",
+    "{event} was a disaster, but {name1} still managed to {action} with {name2} in {realm} under the stars.",
+    "{name1} and {name2} didn’t need words. After {event}, they just held hands and {action} in {realm} for hours.",
+    "They laughed so hard at {event}, they ended up in {realm} slow-{action} like it was a rom-com montage.",
+    "The candlelit moment at {realm} wasn’t planned, but after {event}, it was exactly how {name1} wanted to {action} with {name2}."
+  ],
+  "sad": [
+    "{name1} tried to cheer up {name2} after {event} by taking them to {realm}, but all they could do was {action} together quietly.",
+    "Neither could speak after {event}, so they just met in {realm} and started {action}, hoping it would help.",
+    "{name1} looked at {name2} after {event}, and both knew they needed to {action} somewhere like {realm}.",
+    "They didn’t talk about it. They just met in {realm} and started {action} like grief was their common language.",
+    "{name2} wiped away tears while {action} at {realm}. {name1} didn’t say anything—they just stayed beside them after {event}."
+  ],
+  "tired": [
+    "Running on fumes after {event}, {name1} and {name2} somehow still agreed to {action} in {realm}.",
+    "{event} drained them both, and now they’re half-{action} in {realm} like two zombies on a coffee break.",
+    "They showed up at {realm} with eye bags and regrets. After {event}, even {action} takes effort.",
+    "You could hear the mutual sighs echoing through {realm} as {name1} and {name2} tried to {action} post-{event}.",
+    "{name1} suggested rest. {name2} suggested {action}. They compromised by sleepwalking to {realm} and doing both poorly."
+  ],
+  "scared": [
+    "After hearing rumors about {event}, {name1} and {name2} tried to {action} in {realm}, only to realize the rumors weren’t rumors at all.",
+    "{name1} screamed during {event}, and {name2} dragged them to {realm} where they attempted to {action} and calm down.",
+    "They both swore they weren’t scared-until {event} started. Then it was {realm}, panic, and urgent {action}.",
+    "{realm} was supposed to be safe. But after {event}, {name1} and {name2} are now doing anxious {action} drills there.",
+    "{name2} tried to laugh off {event}, but when {name1} started {action} in {realm}, they joined in—eyes wide."
+  ],
+  "disgusted": [
+    "{name1} was already ready to leave {realm}, but when {event} happened, {name2} straight-up insisted they {action} immediately.",
+    "The smell after {event} was so bad, {name1} and {name2} didn’t even finish {action} before sprinting out of {realm}.",
+    "{name2} gagged. {name1} cried. {event} in {realm} was so bad they can’t even say the word ‘{action}’ anymore.",
+    "After stepping into {realm} during {event}, {name1} and {name2} just stood there horrified until one of them muttered, ‘let’s {action} and never return.’",
+    "No one warned them about the slime. By the time {name1} and {name2} finished {action} at {realm}, {event} had traumatized them both."
+  ],
+  "stressed": [
+    "{event} was a logistical nightmare, so {name1} and {name2} holed up in {realm} to {action} and scream into the void together.",
+    "{name1} paced while {name2} panic-{action}ed in {realm}. No one handled {event} well.",
+    "The group chat exploded after {event}, so {name1} and {name2} went to {realm} to cope via chaotic {action}.",
+    "{name1} tried to fix things. {name2} brought snacks. Together they stress-{action}ed through {realm} after {event}.",
+    "They both said ‘it’s fine’ 8 times. It wasn’t. {event} broke them, so they ended up {action} at {realm} with shaky hands and sarcasm."
+  ],
+  "drained": [
+    "After everything that went down at {event}, {name1} and {name2} just slumped in {realm} to {action} in complete silence.",
+    "No thoughts, no energy—just {name1} and {name2} trying to {action} in {realm} after the emotional storm of {event}.",
+    "{name1} and {name2} looked like wilted plants post-{event}, flopped over and {action} at {realm} like ghosts.",
+    "The burnout was real. {name1} and {name2} went to {realm} to {action} and pretend {event} didn’t happen.",
+    "They didn’t even complain. Just straight to {realm}, immediate {action}, and no blinking. {event} really did them in."
+  ]
+}

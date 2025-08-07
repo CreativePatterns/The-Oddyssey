@@ -1,0 +1,128 @@
+{
+  "angry": [
+    "Deliver {object} to {faction} in {weird_location} — without yelling at the walls.",
+    "Smash {object} for {faction} in {weird_location} — without enjoying it too much.",
+    "Retrieve {object} from {faction} in {weird_location} — without setting the whole place on fire.",
+    "Interrupt {faction}'s meeting in {weird_location} using only {object} — without using violence... probably.",
+    "Bury {object} near {faction}'s camp in {weird_location} — without explaining why you're so mad."
+  ],
+  "bored": [
+    "Deliver {object} to {faction} in {weird_location} — without falling asleep mid-sentence.",
+    "Hide {object} from {faction} in {weird_location} — then forget where you put it.",
+    "Invent a game involving {object} in {weird_location} to keep {faction} mildly entertained.",
+    "Paint {object} 37 times before handing it to {faction} in {weird_location} — for ‘aesthetic reasons’.",
+    "Organize a silent disco for {faction} in {weird_location} using only {object} as music."
+  ],
+  "conflicted": [
+    "Deliver {object} to {faction} in {weird_location} — even if you're not sure it's the right thing.",
+    "Break {object} in front of {faction} at {weird_location} — and then immediately fix it.",
+    "Hide {object} from both sides of {faction} in {weird_location} — without choosing a side.",
+    "Confess your confusion to {faction} in {weird_location}, using only interpretive gestures and {object}.",
+    "Choose whether to give {object} to {faction} or throw it into a well in {weird_location} — time-sensitive."
+  ],
+  "depressed": [
+    "Deliver {object} to {faction} in {weird_location} — while trying not to cry into it.",
+    "Stare at {object} for 2 hours in {weird_location} before handing it over to {faction}.",
+    "Let {faction} keep {object} in {weird_location} — because what’s the point anyway?",
+    "Apologize to {faction} in {weird_location} using only {object} as your prop.",
+    "Carry {object} to {weird_location}, but ask {faction} to meet you halfway — emotionally."
+  ],
+  "energetic": [
+    "Launch {object} into {faction}'s headquarters in {weird_location} — while breakdancing.",
+    "Race {object} across {weird_location} to reach {faction} — no touching the floor!",
+    "Choreograph a musical featuring {object} for {faction} in {weird_location}.",
+    "Build a Rube Goldberg machine in {weird_location} to deliver {object} to {faction}.",
+    "Deliver {object} to {faction} in {weird_location} — using only parkour and enthusiasm."
+  ],
+  "happy": [
+    "Give {object} to {faction} in {weird_location} with a smile so bright it powers the lights.",
+    "Turn {object} into an art piece for {faction} in {weird_location} — bonus points for glitter.",
+    "Plant {object} like a seed in {weird_location} — let {faction} watch it grow.",
+    "Host a surprise party for {faction} in {weird_location} with {object} as the guest of honor.",
+    "Deliver {object} to {faction} in {weird_location} — while humming your theme song."
+  ],
+  "hurt": [
+    "Return {object} to {faction} in {weird_location} — even though it still stings.",
+    "Bury {object} in {weird_location} and ask {faction} to never speak of it again.",
+    "Revisit {weird_location} with {object} and hand it to {faction} — if they still want it.",
+    "Deliver {object} to {faction} in {weird_location} — without showing the crack in your voice.",
+    "Let {faction} see what {object} did to you, right in the middle of {weird_location}."
+  ],
+  "lonely": [
+    "Deliver {object} to {faction} in {weird_location} — and ask them to stay a little longer.",
+    "Send {object} with a note to {faction} in {weird_location} — pretending it’s from a crowd.",
+    "Sit beside {faction} in {weird_location} and show them {object} — like a friend would.",
+    "Deliver {object} to {faction} in {weird_location} — and hope someone notices you.",
+    "Throw a solo party in {weird_location} for {faction}, with {object} as the centerpiece."
+  ],
+  "lost": [
+    "Find {object} in {weird_location} and deliver it to {faction} — or was it supposed to be the other way around?",
+    "Wander through {weird_location} looking for {faction} to give them {object} — ask for no directions.",
+    "Ask {faction} in {weird_location} what {object} means — then forget their answer.",
+    "Deliver {object} to {faction} in {weird_location} — if you can find either of them.",
+    "Forget what {object} is for, ask {faction} in {weird_location}, get distracted by metaphysics."
+  ],
+  "mischievous": [
+    "Switch {object} with a prank version before giving it to {faction} in {weird_location}.",
+    "Deliver {object} to {faction} in {weird_location} — while disguised as someone else.",
+    "Hide {object} in {weird_location} and challenge {faction} to a riddle duel for it.",
+    "Enchant {object} to scream compliments and toss it at {faction} in {weird_location}.",
+    "Pretend to be a statue in {weird_location} until {faction} notices {object} in your hand."
+  ],
+  "mysterious": [
+    "Deliver {object} to {faction} in {weird_location} — say nothing, vanish afterward.",
+    "Leave {object} on a pedestal in {weird_location} for {faction} to find — wear a mask.",
+    "Ask {faction} in {weird_location} what {object} does — pretend you already know.",
+    "Bury {object} under moonlight near {faction} in {weird_location} — chant optional.",
+    "Deliver {object} to {faction} in {weird_location} — only if the ravens approve."
+  ],
+  "romantic": [
+    "Deliver {object} to {faction} in {weird_location} — with flowers, candles, and nervous energy.",
+    "Write a poem about {object}, recite it to {faction} in {weird_location}, then give it to them.",
+    "Hide love notes in {object} before gifting it to {faction} in {weird_location}.",
+    "Propose a toast to {faction} in {weird_location} — using {object} as the goblet.",
+    "Confess your feelings to {faction} in {weird_location}, using {object} as a metaphor."
+  ],
+  "sad": [
+    "Carry {object} to {faction} in {weird_location} — let every step feel like goodbye.",
+    "Let {faction} borrow {object} in {weird_location} — but make them promise to return it.",
+    "Deliver {object} to {faction} in {weird_location} — and whisper what it meant to you.",
+    "Sit in {weird_location} with {object} until {faction} arrives — don’t say a word.",
+    "Give {object} to {faction} in {weird_location} — even if it hurts too much to let go."
+  ],
+  "tired": [
+    "Deliver {object} to {faction} in {weird_location} — try not to fall asleep on the way.",
+    "Nap in {weird_location} with {object} — let {faction} know you tried.",
+    "Hand {object} to {faction} in {weird_location} — yawn mid-sentence, pretend it was on purpose.",
+    "Drag {object} across {weird_location} until you reach {faction} — sigh loudly.",
+    "Deliver {object} to {faction} in {weird_location} — but maybe do it tomorrow instead."
+  ],
+  "scared": [
+    "Deliver {object} to {faction} in {weird_location} — while avoiding eye contact with shadows.",
+    "Hide behind {object} in {weird_location} until {faction} shows up to take it.",
+    "Whisper a warning to {faction} in {weird_location}, hand them {object}, and RUN.",
+    "Leave {object} near {faction}'s door in {weird_location} — knock and disappear.",
+    "Face your fear in {weird_location} and hand {object} to {faction} — even if your hands shake."
+  ],
+  "disgusted": [
+    "Deliver {object} to {faction} in {weird_location} — while holding your nose the entire time.",
+    "Scrub {object} clean in {weird_location} before giving it to {faction} — twice.",
+    "Throw {object} at {faction} in {weird_location} — then apologize for touching it.",
+    "Hide {object} under slime in {weird_location} — dare {faction} to retrieve it.",
+    "Complain loudly to {faction} in {weird_location} about {object}, then hand it over anyway."
+  ],
+  "stressed": [
+    "Deliver {object} to {faction} in {weird_location} — while managing 5 other quests mentally.",
+    "Juggle {object}, a coffee, and your anxiety in {weird_location} — hand it to {faction} on time.",
+    "Argue with {faction} in {weird_location} about {object} — while your eye twitches.",
+    "Drop {object} off at {weird_location} for {faction} — breathe in, scream out.",
+    "Give {object} to {faction} in {weird_location} — but also schedule 4 meetings after."
+  ],
+  "drained": [
+    "Deliver {object} to {faction} in {weird_location} — and please don’t ask questions.",
+    "Push {object} across {weird_location} toward {faction} — silently, slowly, sadly.",
+    "Leave {object} with {faction} in {weird_location} — collapse next to it afterward.",
+    "Drag yourself and {object} to {weird_location} — beg {faction} to take it off your hands.",
+    "Deliver {object} to {faction} in {weird_location} — and then sleep for three days."
+  ]
+}

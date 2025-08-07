@@ -1,0 +1,128 @@
+{
+  "angry": [
+    "After {event}, {name} started {action} in {realm}—no one has dared to ask why.",
+    "{name} had enough of {realm} after what happened during {event}, and now they just {action} without a word.",
+    "Every time someone mentions {event}, {name} storms off to {realm} and starts {action} like it’s a ritual.",
+    "{name} snapped during {event}, marched into {realm}, and just started {action}. It’s a whole saga now.",
+    "Someone said the wrong thing at {event}, and now {name} has been {action} nonstop in {realm} like a fury-fueled machine."
+  ],
+  "bored": [
+    "Bored out of their mind at {realm}, {name} chose to {action} right after {event} ended.",
+    "If you leave {name} alone in {realm} with nothing to do, they’ll cause {event} and then casually {action} like it's normal.",
+    "{name} once {action} at {realm} just to see if anything would happen. Spoiler: it caused {event}.",
+    "No plans? No problem. {name} will just {action} in {realm} until {event} randomly kicks off.",
+    "Out of sheer boredom during {event}, {name} decided to {action} in {realm} and made it everyone’s problem."
+  ],
+  "conflicted": [
+    "To avoid facing {event} at {realm}, {name} decided to {action} instead and pretend it was a well-thought-out plan.",
+    "While pacing around {realm} during {event}, {name} resorted to {action} just to delay choosing a side.",
+    "{name} changed their mind six times during {event}, then ended up {action} in {realm} out of panic.",
+    "Even in {realm}, the tension of {event} followed {name}, who could only cope by {action}.",
+    "{name} tried to make a pros-and-cons list about {event}, but ended up {action} in {realm} instead. Classic."
+  ],
+  "depressed": [
+    "Rainy skies over {realm} mirrored {name}'s mood after {event}, so they spent the day {action} instead of reaching out.",
+    "Nothing hits like soggy toast and {event}. {name} now {action} alone in {realm}—don’t ask.",
+    "After {event}, {name} vanished into {realm} and started {action} in silence. No one’s seen their smile since.",
+    "{name} was last seen {action} in {realm} with a playlist titled ‘:(' on repeat, thanks to {event}.",
+    "Even the plants in {realm} seem sad when {name} shows up to {action} after {event}."
+  ],
+  "energetic": [
+    "Two energy drinks later, {name} was {action} during {event} like they owned {realm}.",
+    "Do NOT mention {event} near {name}—they’ll sprint to {realm} and {action} before you finish your sentence.",
+    "{name} treats {realm} like a gym when {event} happens—they start {action} and somehow it works.",
+    "{name} turned {event} into a personal challenge and now won’t stop {action} all over {realm}.",
+    "Fueled by pure chaos and {event}, {name} began {action} across {realm} like a caffeinated squirrel."
+  ],
+  "happy": [
+    "You’ll probably find {name} at {realm}, {action} their heart out while enjoying {event} like it’s the best day ever.",
+    "To distract {name} from {action} during {event}, you’d have to bring their mom in from {realm}. Good luck.",
+    "{event} brought such good vibes that {name} started {action} in {realm} and invited strangers to join.",
+    "{name} was so thrilled after {event}, they threw a mini party in {realm} by {action} like a maniac.",
+    "When {name} smiles during {event}, they start {action} in {realm} like life is a musical."
+  ],
+  "hurt": [
+    "After what happened during {event}, {name} stopped visiting {realm} and started {action} to cope instead.",
+    "{name} doesn’t talk about what went down at {realm}, but ever since {event}, they’ve been {action} more than usual.",
+    "Every time {event} crosses their mind, {name} wanders off to {realm} to quietly {action}.",
+    "You’ll find {name} {action} in {realm} after {event}, pretending it doesn’t hurt. It does.",
+    "{name} flinches every time someone brings up {event}, then ends up {action} at {realm} to avoid feeling it again."
+  ],
+  "lonely": [
+    "Seeing everyone else happy after {event}, {name} wandered into {realm} to {action} and forget they were alone.",
+    "During {event}, {name} figured they'd rather {action} at {realm} than admit they missed someone.",
+    "{name} shows up at {realm} during {event} just to {action} and pretend there’s company.",
+    "Every time {name} feels left out during {event}, they end up {action} alone in {realm} again.",
+    "They say {realm} is peaceful, but to {name}, it’s just another place to {action} while missing what never was after {event}."
+  ],
+  "lost": [
+    "{name} took 3 lefts, 1 right, and ended up in {realm}. Now they’re {action} and pretending it’s all part of the plan post-{event}.",
+    "After getting stuck in {realm} during {event}, {name} decided to just {action} and hope no one notices they’re lost.",
+    "{name} misread the map again and now they’re {action} in {realm}, blaming {event} for everything.",
+    "You’d think {name} knew where they were going after {event}, but nope—they’re {action} in {realm} without a clue.",
+    "{realm} wasn’t even on the itinerary, but {event} sent {name} spiraling—and now they’re just {action} there, lost in every way."
+  ],
+  "mischievous": [
+    "Leave {name} in {realm} long enough and they’ll {action}, then blame {event} like it’s part of the plan.",
+    "Every time {name} gets bored, they study {event}, then test it out by {action} somewhere in {realm} for fun.",
+    "You blink, and {name} is already {action} in {realm} with an alibi ready involving {event}.",
+    "There’s always a mysterious {event} when {name} starts {action} in {realm}. Coincidence? Never.",
+    "If {name} is laughing in {realm}, someone’s about to suffer—and it probably started with {event}."
+  ],
+  "mysterious": [
+    "After five mystery novels, {name} now dramatically {action} in {realm} anytime someone mentions {event}.",
+    "{name} insists on narrating their own life like a detective while {action} at {realm}—all because of {event}.",
+    "{event} was never explained, and now {name} wears cloaks and {action}s at {realm}.",
+    "People whisper about {name} showing up at {realm} to {action} right after {event}. No one knows why.",
+    "There’s a rumor that {name} has a secret mission tied to {event}, and it involves {action} in {realm} at odd hours."
+  ],
+  "romantic": [
+    "Trying to impress their crush after {event}, {name} chose to {action} at {realm} like it's a romance movie.",
+    "After a surprisingly smooth date in {realm}, {name} decided to {action} before {event} messed everything up.",
+    "{name} quoted poetry during {event}, then went to {realm} to {action} dramatically. It kind of worked.",
+    "You haven’t seen romance until {name} starts {action} in {realm} with flowers, all because of {event}.",
+    "They said {event} wasn’t romantic. Then {name} showed up at {realm}, {action} like a walking love letter."
+  ],
+  "sad": [
+    "{name} was quietly {action} at {realm} when they heard about {event}. Nobody knows what to say to them now.",
+    "Whenever {event} comes up, {name} just ends up {action} at {realm} like it’s the only thing left to do.",
+    "{name} cried a little too long after {event}, and now they just {action} in {realm} like it’s home.",
+    "After {event}, {name} stopped pretending. They went to {realm} and just started {action} with no explanation.",
+    "{realm} used to be fun, but after {event}, it’s where {name} goes to {action} and disappear for a while."
+  ],
+  "tired": [
+    "Exhausted after {event}, {name} still dragged themselves to {realm} just to {action}. That’s dedication… or denial.",
+    "{name} thought {action} at {realm} would be worth it. Then {event} happened. It wasn’t.",
+    "After {event}, even {name} couldn’t fake energy. They just went to {realm} to {action} in peace.",
+    "You know {name} is tired when they skip {event} to go {action} in {realm} instead of arguing.",
+    "{name} could sleep for a week, but no—they’re still {action} at {realm} because of {event}."
+  ],
+  "scared": [
+    "Whenever {event} is even mentioned, {name} starts {action} and avoids {realm} like it’s haunted.",
+    "{name} had no idea {event} was happening at {realm} until it was too late. Now they just {action} and hope for the best.",
+    "After that nightmare of an {event}, {name} won’t even look at {realm} without {action} first.",
+    "{name} once screamed during {event} and ran into {realm} to {action} for safety. It didn’t help.",
+    "You know {name} is scared when they start {action} at {realm} especially after what went down at {event}."
+  ],
+  "disgusted": [
+    "Too many weird encounters at {realm} made {name} associate it with {event}, so now they {action} in protest.",
+    "Offer {name} one more weird snack and they’ll singlehandedly cause {event} at {realm} just to {action} in peace.",
+    "{name} smelled something funky at {realm} during {event}, and now they just {action} to cope.",
+    "{event} involved too much slime. Now {name} won’t stop {action} in {realm} with a grimace.",
+    "{name} tried to stay polite during {event}, but one look at {realm} made them {action} and dry heave."
+  ],
+  "stressed": [
+    "{name} has too many tabs open—mentally and literally. After {event}, they went to {realm} to {action} in a panic.",
+    "The pressure of {event} broke {name}, so now they’re stress-{action} at {realm} while muttering to themselves.",
+    "{name} is running on caffeine, fear, and {event}. You’ll find them {action} at {realm} in full meltdown mode.",
+    "{event} pushed {name} over the edge, and now {realm} is their crisis center for {action}.",
+    "{name} said they were ‘fine’ after {event}, then sprinted to {realm} and started {action} like a maniac."
+  ],
+  "drained": [
+    "After {event}, {name} just sat down in {realm} and started {action} like their soul left their body.",
+    "{name} is so emotionally done that they now {action} in {realm} whenever {event} is brought up.",
+    "Running on 2% battery post-{event}, {name} crawled to {realm} to {action} with whatever energy they had left.",
+    "{name} used to care. But after {event}? They’re just {action} in {realm} like an NPC who gave up.",
+    "Nothing left in the tank. {event} drained {name} so much that they barely manage to {action} in {realm} anymore."
+  ]
+}
